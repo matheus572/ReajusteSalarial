@@ -1,0 +1,29 @@
+{
+  "name": "reajustesalarial",
+  "version": "1.0.0",
+  "description": "Atividade 1 da disciplina PROGRAMACAO PARA INTERNET",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus572/ReajusteSalarial.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node"
+  ],
+  "author": "Matheus Vital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheus572/ReajusteSalarial/issues"
+  },
+  "homepage": "https://github.com/matheus572/ReajusteSalarial#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
